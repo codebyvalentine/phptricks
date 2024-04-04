@@ -1,0 +1,3 @@
+Storing my day to day php codes here. 
+
+You can use them also. Saves you hours of googling...
